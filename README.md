@@ -4,6 +4,10 @@
 
 *   Basic React app that creates a quiz consists of Multiple Choice Questions (MCQs).
 
+### Image
+
+![Quiz App](https://github.com/sudarshan-sh/QuizApp/blob/main/images/quiz-app.png)
+
 ##  Functional
 
 *   A user can setup a quiz based on number of questions, category and difficulty level.
